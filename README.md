@@ -1,4 +1,10 @@
 # GrayscaleImageBoxFilter
+## Purpose
+Smoothing is an image processing technique used to blur, remove small details and reduce the noise of an image. There are different filter types, such as linear and non-linear. The filter for this project was a 3*3 box filter. The box filter is the mean of the neighbouring pixel intensities. In this project, we explore how the box filter affects different images.
+
+![Screenshot 2023-10-16 at 3 07 51 PM](https://github.com/DavidGuamanDavila/GrayscaleImageBoxFilter/assets/92492748/b9617969-eb44-4293-9cc2-ce4c216a0c8d)
+
+
 ## Procedure How to Run Tasks
 ### boxfilter.py File Procedure
 #### Imports Required
