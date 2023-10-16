@@ -1,4 +1,4 @@
-# GrayscaleImageFilter
+# GrayscaleImageBoxFilter
 ## Procedure How to Run Tasks
 ### boxfilter.py File Procedure
 #### Imports Required
