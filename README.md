@@ -10,45 +10,52 @@
 2. Open your terminal and cd into the repository
 3. Inside the repository depending on your terminal alias run: python3 boxfilter.py OR python boxfilter.py
 4. Type the path of the image you want to open. For example: ~/Documents/trial.jpeg. Then the image will be displayed in the grayscale mode.
-![Screenshot 2023-10-14 at 12 31 50 AM](https://github.com/MUN-McIntyre/project-2-a2-aabirbasu-1630-antonguaman-4155/assets/92492748/5c55de8a-e09a-49c5-9cf3-84b701cd5029)
+![Screenshot 2023-10-16 at 2 57 16 PM](https://github.com/DavidGuamanDavila/GrayscaleImageBoxFilter/assets/92492748/06cac6c7-d4d5-4d17-bbf8-e0a6c713edbf)
+
 5. In the background, filtering is performed. The new image is saved, and both the original grayscale and the filtered image will be displayed.
 
 Example of a padded image:
 
-![padded_image](https://github.com/MUN-McIntyre/project-2-a2-aabirbasu-1630-antonguaman-4155/assets/92492748/b8ec7202-112d-41d2-9221-379676a5fde0)
+![Screenshot 2023-10-16 at 2 57 36 PM](https://github.com/DavidGuamanDavila/GrayscaleImageBoxFilter/assets/92492748/cfefdeb2-2929-4e99-8de5-b58372bde094)
+
 
 Resultant message from the terminal:
 
-![Screenshot 2023-10-14 at 12 34 02 AM](https://github.com/MUN-McIntyre/project-2-a2-aabirbasu-1630-antonguaman-4155/assets/92492748/3581e775-5f07-45d7-92e0-dc500fde3770)
+![Screenshot 2023-10-16 at 2 57 53 PM](https://github.com/DavidGuamanDavila/GrayscaleImageBoxFilter/assets/92492748/3d32b501-45fd-44b6-a000-93fc41f2645f)
+
 
 #### Results on Testing First Image
 
-<img width="1001" alt="Screenshot 2023-10-14 at 12 31 27 AM" src="https://github.com/MUN-McIntyre/project-2-a2-aabirbasu-1630-antonguaman-4155/assets/92492748/9c2acb6c-73a2-47a4-88e3-475b291659ed">
+![Screenshot 2023-10-16 at 2 58 26 PM](https://github.com/DavidGuamanDavila/GrayscaleImageBoxFilter/assets/92492748/88f1f105-dde9-492c-9a35-fb87589b00e7)
 
 
 The original image is on the left, and the resulting image is on the right.
 
 #### Results on Testing Second Image
 
-<img width="502" alt="Screenshot 2023-10-14 at 12 37 25 AM" src="https://github.com/MUN-McIntyre/project-2-a2-aabirbasu-1630-antonguaman-4155/assets/92492748/0e7a2930-6467-417a-8bf6-a1aefab85791">
+![Screenshot 2023-10-16 at 2 58 39 PM](https://github.com/DavidGuamanDavila/GrayscaleImageBoxFilter/assets/92492748/96810955-3ec7-435f-8111-29e931f8f165)
+
 
 The original image is on the left, and the resulting image is on the right.
 
 #### Results on Testing Third Image
 
-<img width="1231" alt="Screenshot 2023-10-14 at 12 37 53 AM" src="https://github.com/MUN-McIntyre/project-2-a2-aabirbasu-1630-antonguaman-4155/assets/92492748/cc982750-6b2d-47c7-bcea-000c2313a421">
+![Screenshot 2023-10-16 at 2 58 50 PM](https://github.com/DavidGuamanDavila/GrayscaleImageBoxFilter/assets/92492748/129086cd-c047-452d-84fb-27b095481f20)
+
 
 The original image is on the left, and the resulting image is on the right.
 
 #### Results on Testing Fourth Image
 
-<img width="1369" alt="Screenshot 2023-10-14 at 12 38 24 AM" src="https://github.com/MUN-McIntyre/project-2-a2-aabirbasu-1630-antonguaman-4155/assets/92492748/4669b52c-3226-48f6-bb4d-59e105d4b6e0">
+![Screenshot 2023-10-16 at 2 59 09 PM](https://github.com/DavidGuamanDavila/GrayscaleImageBoxFilter/assets/92492748/ee8a0085-b732-4854-863f-81ec9728b369)
+
 
 The original image is on the left, and the resulting image is on the right.
 
 #### Results on Testing Fifth Image
 
-<img width="962" alt="Screenshot 2023-10-14 at 12 39 07 AM" src="https://github.com/MUN-McIntyre/project-2-a2-aabirbasu-1630-antonguaman-4155/assets/92492748/7cab2485-0941-41d6-b6ab-8a389768a748">
+![Screenshot 2023-10-16 at 2 59 21 PM](https://github.com/DavidGuamanDavila/GrayscaleImageBoxFilter/assets/92492748/a8c9933e-1e0d-4695-8902-7737e7ba3356)
+
 
 The original image is on the left, and the resulting image is on the right.
 
