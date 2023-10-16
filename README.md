@@ -10,6 +10,7 @@
 2. Open your terminal and cd into the repository
 3. Inside the repository depending on your terminal alias run: python3 boxfilter.py OR python boxfilter.py
 4. Type the path of the image you want to open. For example: ~/Documents/trial.jpeg. Then the image will be displayed in the grayscale mode.
+
 ![Screenshot 2023-10-16 at 2 57 16 PM](https://github.com/DavidGuamanDavila/GrayscaleImageBoxFilter/assets/92492748/06cac6c7-d4d5-4d17-bbf8-e0a6c713edbf)
 
 5. In the background, filtering is performed. The new image is saved, and both the original grayscale and the filtered image will be displayed.
